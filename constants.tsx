@@ -39,11 +39,11 @@ export const MISSIONS: Mission[] = [
 ];
 
 export const EQUIPMENT: Equipment[] = [
-  { name: "Audiomètre", description: "Évaluation de la capacité auditive.", imageUrl: "./images/audiometre.webp" },
-  { name: "Visiotest", description: "Contrôle de l'acuité visuelle.", imageUrl: "./images/visiotest.jpg" },
-  { name: "Spiromètre", description: "Mesure des capacités respiratoires.", imageUrl: "./images/spirometre.png" },
-  { name: "Electrocardiogramme", description: "Détection précoce de pathologies cardiaques.", imageUrl: "./images/ecg.jpeg" },
-  { name: "Luxmètre", description: "Mesure de l'intensité lumineuse au poste.", imageUrl: "./images/luxmetre.jpg" },
+  { name: "Audiomètre", description: "Évaluation de la capacité auditive.", imageUrl: "/images/audiometre.webp" },
+  { name: "Visiotest", description: "Contrôle de l'acuité visuelle.", imageUrl: "/images/visiotest.jpg" },
+  { name: "Spiromètre", description: "Mesure des capacités respiratoires.", imageUrl: "/images/spirometre.png" },
+  { name: "Electrocardiogramme", description: "Détection précoce de pathologies cardiaques.", imageUrl: "/images/ecg.jpeg" },
+  { name: "Luxmètre", description: "Mesure de l'intensité lumineuse au poste.", imageUrl: "/images/luxmetre.jpg" },
 ];
 
 export const getIcon = (name: string) => {

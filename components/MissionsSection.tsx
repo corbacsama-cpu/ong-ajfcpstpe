@@ -29,7 +29,7 @@ const MissionsSection: React.FC = () => {
           <div className="w-full lg:w-1/2 relative">
              <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl border-8 border-white">
                <img 
-                 src="./images/CG.jpg" 
+                 src="/images/CG.jpg" 
                  alt="Sécurité au travail" 
                  className="w-full h-auto object-cover"
                />

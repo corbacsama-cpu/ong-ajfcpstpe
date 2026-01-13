@@ -193,7 +193,7 @@ const App: React.FC = () => {
             <div className="hidden lg:block relative">
               <div className="relative z-10 bg-white p-4 rounded-3xl shadow-2xl rotate-3 transition-transform hover:rotate-0 duration-700">
                 <img 
-                  src="./images/dr.PNG" 
+                  src="/images/dr.PNG" 
                   alt="Dr. Mantsoukina" 
                   className="rounded-2xl w-full h-auto object-cover grayscale-0"
                 />
